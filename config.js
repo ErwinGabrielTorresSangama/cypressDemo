@@ -14,8 +14,8 @@ module.exports = {
             quality: 70,
             tolerance: 0,
             threshold: 0.05,
-            cleanPngPaths: true,
-            matchPageCount: true,
+            //cleanPngPaths: false,
+            matchPageCount: true
             //disableFontFace: true,
             //verbosity: 0
         }
